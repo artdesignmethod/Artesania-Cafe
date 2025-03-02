@@ -1,0 +1,36 @@
+1. Marcellus
+Copyright (c) 2012, Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names "Marcellus"
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+2. Marcellus SC
+Copyright (c) 2012, Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names "Marcellus"
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+3. Poppins
+Designed by Indian Type Foundry, Jonny Pinhorn, Ninad Kale
+Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+4. Playball
+Copyright 2011 The Playball Project Authors (https://github.com/googlefonts/play-ball)
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+
+--------------------------------------------------
+
+License
+These fonts are licensed under the Open Font License.
+
+You can use them in your products & projects – print or digital, commercial or otherwise.
+
+This isn't legal advice, please consider consulting a lawyer and see the full license for all details.
+
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
