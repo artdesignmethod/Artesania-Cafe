@@ -453,7 +453,6 @@ body {
   object-fit: cover;
   height: 100%;
   width: 100%;
-  /* clip-path: circle(); */
 }
 
 /*********** PRODUCTS SECTION ***********/
@@ -475,9 +474,6 @@ body {
 }
 
 .card {
-  /* border-radius: 1.6rem; */
-  /* -webkit-box-shadow: 12px 12px 24px #b2b8c9a1, -12px -12px 24px #f0f8ff;
-  box-shadow: 8px 8px 24px #b2b8c9a1, -12px -12px 24px #e7e7e77a; */
   overflow: hidden;
 }
 
