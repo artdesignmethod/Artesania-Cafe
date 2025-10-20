@@ -117,13 +117,14 @@ const Footer = () => {
 
             <li>
               <Link className="footer-link" to="https://unsplash.com/">
-                Placeholder images <br /> from Unsplash
+                Images: Unsplash
               </Link>
             </li>
 
             <li>
               <Link className="footer-link" to="https://leonardo.ai/">
-                Placeholder illustration <br /> created with Leonardo.ai
+                Illustration created <br />
+                with Leonardo.ai
               </Link>
             </li>
           </ul>
